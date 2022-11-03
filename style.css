@@ -1,0 +1,23 @@
+/* İNDEX HTML */
+.sectionÜst h1 , p , h2 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.list-group-item {
+    text-align: center;
+}
+
+/* About Us HTML */
+.sectionÜstAboutUs h1 , p ,h4 {
+    text-align: center;
+}
+
+.sectionÜstAboutUs h1 ,h4 {
+    color: darkgoldenrod;
+}
+
+.listOrdered li {
+    list-style-position: inside;
+    text-align: center;
+}
